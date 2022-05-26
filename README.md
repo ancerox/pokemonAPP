@@ -36,7 +36,7 @@ In the injection file are all the dependencies required for the app, i am using 
 
 The domain class is just to set in a clean way the use cases that the app must implement(which in this case is only one).
 
-###### Why i'm using differents models to for the same object?
+###### Why i'm using differents models for the same object?
 
 it just to help with the sepation of layers, so they don't depende on the other, if we ever switch from JSON to XML it won't affect nothing.
 
