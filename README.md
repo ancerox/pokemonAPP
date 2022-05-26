@@ -1,16 +1,17 @@
 # pokemon_app
 
-A new Flutter project.
+This app is made to help you survive any Matrix situation, it just has the following screens ->
 
-## Getting Started
+- Splash (Tells you about the app)![Simulator Screen Shot - iPhone 12 Pro Max - 2022-05-26 at 13 09 46](https://user-images.githubusercontent.com/58252544/170539448-4f495427-1a64-47d5-b720-eaea56976712.png)
 
-This project is a starting point for a Flutter application.
+- HomePage![Simulator Screen Shot - iPhone 12 Pro Max - 2022-05-26 at 13 09 27](https://user-images.githubusercontent.com/58252544/170539430-fdec4b0b-dbe1-4413-84f3-8f150777c5d9.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Pokemon![Simulator Screen Shot - iPhone 12 Pro Max - 2022-05-26 at 13 09 19](https://user-images.githubusercontent.com/58252544/170539383-529eaa91-5e5b-416a-a993-102e144000d4.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To use this app just clone this repo, and makesure you are using Flutter 2.16.2.
+
+
+
+
+
