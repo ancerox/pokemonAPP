@@ -22,8 +22,13 @@ To use this app just clone this repo, and if you want just to copy something, ma
 
 ## To run the project 
 
-###### type in therminal
+###### run this  in therminal
 ```
+
+git clone git@github.com:ancerox/pokemonAPP.git
+
+// And then
+
 flutter run
 
 ```
