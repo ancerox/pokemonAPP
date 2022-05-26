@@ -11,6 +11,28 @@ This app is made to help you survive any Matrix situation, it just has the follo
 
 To use this app just clone this repo, and makesure you are using Flutter 2.16.2.
 
+#Packages required ->
+
+- flutter_svg: ^1.0.3
+- get_it: ^7.2.0
+- provider: ^6.0.3
+- dartz: ^0.10.1
+- dio: ^4.0.6
+- equatable: ^2.0.3
+
+## To run the project 
+
+###### type in therminal
+```
+flutter run
+
+```
+
+## About the architecture used
+
+Although this is a small app is using a clean architecture because if we ever want to make it bigger, it will a lot easier because the separations of concerns and of course in will be better for testing. It is using the respository pattern in order of us to chose with data source we want.
+
+
 
 
 
