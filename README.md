@@ -25,7 +25,7 @@ To use this app just clone this repo, and if you want just to copy something, ma
 ###### run this  in therminal
 ```
 
-git clone git@github.com:ancerox/pokemonAPP.git
+git clone https://github.com/ancerox/pokemonAPP.git
 
 // And then
 
